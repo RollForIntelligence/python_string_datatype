@@ -7,12 +7,12 @@
 #   - my_year_of_birth
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
-#       -set this equal to 2020
+#       -set this equal to 2022
 
 my_first_name = "James"
 my_last_name = "Checketts"
 my_year_of_birth = 2003
-current_year = 2020
+current_year = 2022
 
 # TODO String Indexing
 #   - Print the following items (one per line) (print using variables)
